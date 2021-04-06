@@ -6,16 +6,16 @@ const useStyles = makeStyles(() => ({
         width: 500,
         height: 100,
         margin: "2em",
-        padding: "1em"
+        padding: "1em",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center"
     },
     stepper: {
-        width: "auto",
+        width: "500px",
         height: "auto",
         background: "transparent",
-        display: "flex",
-        alignItems: "flex-start",
-        justifyContent: "flex-start",
-
+        padding: 0,
     },
     icon: {
         "&$activeIcon": {
