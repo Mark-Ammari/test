@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.75ca3f30.chunk.css",
+    "main.js": "/test/static/js/main.45490a4d.chunk.js",
+    "main.js.map": "/test/static/js/main.45490a4d.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.0b1d7ef5.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.0b1d7ef5.js.map",
+    "static/js/2.865e756f.chunk.js": "/test/static/js/2.865e756f.chunk.js",
+    "static/js/2.865e756f.chunk.js.map": "/test/static/js/2.865e756f.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.75ca3f30.chunk.css.map": "/test/static/css/main.75ca3f30.chunk.css.map",
+    "static/js/2.865e756f.chunk.js.LICENSE.txt": "/test/static/js/2.865e756f.chunk.js.LICENSE.txt",
+    "static/media/leap.e2641365.svg": "/test/static/media/leap.e2641365.svg",
+    "static/media/logo.6ce24c58.svg": "/test/static/media/logo.6ce24c58.svg",
+    "static/media/optiwatt.0e031a67.svg": "/test/static/media/optiwatt.0e031a67.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1d7ef5.js",
+    "static/js/2.865e756f.chunk.js",
+    "static/css/main.75ca3f30.chunk.css",
+    "static/js/main.45490a4d.chunk.js"
+  ]
+}
